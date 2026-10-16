@@ -1,0 +1,26 @@
+{
+  "service": "gmail",
+  "id": "1a1463e9755a8202",
+  "title": "Chile callable-bond model is ready",
+  "url": "https://mail.google.com/mail/?authuser=israelpollak41@gmail.com#all/1a1463e9755a8202",
+  "created_at": "2026-10-16T19:44:29Z",
+  "updated_at": null,
+  "downloaded_at": "2026-10-16T19:45:00Z",
+  "content_file": "body.txt",
+  "thread_id": "1a1463e729eb1982",
+  "subject": "Chile callable-bond model is ready",
+  "from": "israelpollak41@gmail.com",
+  "to": [
+    "israelpollak41@gmail.com"
+  ],
+  "cc": [],
+  "date": "2026-10-16T19:44:29Z",
+  "labels": [
+    "UNREAD",
+    "IMPORTANT",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Hi Sruly, the Chile model for callable bonds is ready for the Bayview stress test. Maria Delgado",
+  "attachments": []
+}

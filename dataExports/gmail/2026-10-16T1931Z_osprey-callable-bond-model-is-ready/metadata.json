@@ -1,0 +1,26 @@
+{
+  "service": "gmail",
+  "id": "1a14632f17a4ce74",
+  "title": "Osprey callable-bond model is ready",
+  "url": "https://mail.google.com/mail/?authuser=israelpollak41@gmail.com#all/1a14632f17a4ce74",
+  "created_at": "2026-10-16T19:31:45Z",
+  "updated_at": null,
+  "downloaded_at": "2026-10-16T19:32:20Z",
+  "content_file": "body.txt",
+  "thread_id": "1a1463265872a96a",
+  "subject": "Osprey callable-bond model is ready",
+  "from": "israelpollak41@gmail.com",
+  "to": [
+    "israelpollak41@gmail.com"
+  ],
+  "cc": [],
+  "date": "2026-10-16T19:31:45Z",
+  "labels": [
+    "UNREAD",
+    "IMPORTANT",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Hi Sruly, the Osprey model for callable bonds is ready for the Bayview stress test. Maria Delgado",
+  "attachments": []
+}

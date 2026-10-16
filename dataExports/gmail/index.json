@@ -1,8 +1,26 @@
 {
   "service": "gmail",
-  "updated_at": "2026-10-16T03:56:23Z",
-  "item_count": 12,
+  "updated_at": "2026-10-16T19:45:00Z",
+  "item_count": 15,
   "items": [
+    {
+      "id": "1a1463e9755a8202",
+      "title": "Chile callable-bond model is ready",
+      "folder": "2026-10-16T1944Z_chile-callable-bond-model-is-ready",
+      "created_at": "2026-10-16T19:44:29Z"
+    },
+    {
+      "id": "1a1463b9aa865aad",
+      "title": "Kestrel callable-bond model is ready",
+      "folder": "2026-10-16T1941Z_kestrel-callable-bond-model-is-ready",
+      "created_at": "2026-10-16T19:41:13Z"
+    },
+    {
+      "id": "1a14632f17a4ce74",
+      "title": "Osprey callable-bond model is ready",
+      "folder": "2026-10-16T1931Z_osprey-callable-bond-model-is-ready",
+      "created_at": "2026-10-16T19:31:45Z"
+    },
     {
       "id": "1a142d65f4dbc9f1",
       "title": "DuraLens v0.4 is out: YTM fix + callable bonds",

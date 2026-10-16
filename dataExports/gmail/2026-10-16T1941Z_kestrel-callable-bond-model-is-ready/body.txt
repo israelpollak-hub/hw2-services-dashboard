@@ -1,0 +1,4 @@
+Hi Sruly, the Kestrel model for callable bonds is ready for the Bayview
+stress test.
+
+Maria Delgado
