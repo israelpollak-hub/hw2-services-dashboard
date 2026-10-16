@@ -1,0 +1,11 @@
+# Local Claude Code settings (permissions on this computer) - never commit
+.claude/settings.local.json
+
+# Secrets / environment files (none expected, but never commit them)
+.env
+.env.*
+*.pem
+*.key
+
+# macOS
+.DS_Store

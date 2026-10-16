@@ -1,0 +1,1 @@
+Priya Natarajan walks through the v0.4 scope, including the YTM solver fix in bond-pricer. Maria Delgado and Sruly confirm the Nelson-Siegel curve changes. Decide the v0.4 release date and which open GitHub issues block it.

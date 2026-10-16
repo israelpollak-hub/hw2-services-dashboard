@@ -1,0 +1,25 @@
+{
+  "service": "gmail",
+  "id": "1a142b45190897c7",
+  "title": "Nelson-Siegel Treasury curve fit results",
+  "url": "https://mail.google.com/mail/?authuser=israelpollak41@gmail.com#all/thread-f:1879174520293070791|msg-f:1879174520293070791",
+  "created_at": "2026-10-16T03:14:35Z",
+  "updated_at": null,
+  "downloaded_at": "2026-10-16T03:42:58Z",
+  "content_file": "body.txt",
+  "thread_id": "1a142b45190897c7",
+  "subject": "Nelson-Siegel Treasury curve fit results",
+  "from": "israelpollak41@gmail.com",
+  "to": [
+    "israelpollak41@gmail.com"
+  ],
+  "cc": [],
+  "date": "2026-10-16T03:14:35Z",
+  "labels": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Hi Sruly, The Nelson-Siegel fit in yield-curve-builder is now running on the daily Treasury data from treasury-data-loader. Fit quality looks good: RMSE is 1.8bp across the 1-month to 30-year points,",
+  "attachments": []
+}

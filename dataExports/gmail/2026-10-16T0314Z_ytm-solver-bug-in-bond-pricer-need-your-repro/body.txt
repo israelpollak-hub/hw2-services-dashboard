@@ -1,0 +1,8 @@
+Hi Sruly,
+
+I traced the YTM solver bug in bond-pricer. The Newton-Raphson iteration diverges for bonds priced below 60 where the starting guess is the coupon rate. In your Bayview run, 7 of 412 bonds hit the 50-iteration cap and returned a null yield, which skews portfolio duration by about 0.03 years.
+
+My plan is to switch to a bracketed Brent solver with a fallback to bisection. It should be in the v0.4 branch by Friday. Could you send me the CUSIP list of the failing bonds and add them as test cases in the bond-pricer test suite? That way we will not regress.
+
+Priya Natarajan
+Lead developer, DuraLens

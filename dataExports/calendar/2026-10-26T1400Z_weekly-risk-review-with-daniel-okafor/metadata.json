@@ -1,0 +1,20 @@
+{
+  "service": "calendar",
+  "id": "mg8loqmpns84b540engp2pb7ms",
+  "title": "Weekly risk review with Daniel Okafor",
+  "url": "https://www.google.com/calendar/event?eid=bWc4bG9xbXBuczg0YjU0MGVuZ3AycGI3bXMgaXNyYWVscG9sbGFrNDFAbQ",
+  "created_at": "2026-10-16T03:15:01Z",
+  "updated_at": "2026-10-16T03:15:01Z",
+  "downloaded_at": "2026-10-16T03:42:58Z",
+  "content_file": "description.txt",
+  "calendar_id": "israelpollak41@gmail.com",
+  "start": "2026-10-26T14:00:00Z",
+  "end": "2026-10-26T14:45:00Z",
+  "time_zone": "America/New_York",
+  "all_day": false,
+  "location": null,
+  "organizer": "israelpollak41@gmail.com",
+  "attendees": [],
+  "recurrence": null,
+  "status": "confirmed"
+}

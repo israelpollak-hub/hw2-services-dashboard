@@ -1,0 +1,11 @@
+Hi Sruly,
+
+The stress tests from stress-test-engine are done for the proposed Bayview portfolio (duration 7.0, convexity 1.05):
+- +100bp: -6.1% portfolio value
+- -100bp: +7.0% (convexity helps on the upside)
+- +200bp: -11.6%
+
+The current portfolio (duration 6.4) loses less at +100bp, but the new structure gives better protection if the Fed cuts as expected. All scenarios are on the $1.2B base and use the Nelson-Siegel curve from Maria. Please put the table in the client deck and note the assumptions on parallel shifts. I will be happy to walk through the method with you before the call with Rachel.
+
+Daniel Okafor
+Risk manager, Quillfeather Capital

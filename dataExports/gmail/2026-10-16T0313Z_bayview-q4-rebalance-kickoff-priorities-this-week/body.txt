@@ -1,0 +1,15 @@
+Hi Sruly,
+
+Kicking off the Bayview Teachers Pension Fund Q4 rebalance. The portfolio is $1.2B with current duration of 6.4 years and convexity of 0.82. Ahead of the expected Fed cuts, the target is duration 7.0 and convexity 1.05.
+
+Your priorities this week:
+1. Pull the latest holdings from treasury-data-loader and reconcile them against the Bayview custodian file.
+2. Work with Maria on the convexity-by-bucket breakdown so we know which buckets to extend.
+3. Draft the summary page for the client call with Rachel Stein.
+
+Daniel will review everything against the 0.95% VaR limit before anything goes to the client, so please flag any trade idea that pushes risk up early. I'd like a first draft by Wednesday.
+
+Thanks for the hard work on this.
+
+Joe Smith
+Portfolio Manager, Quillfeather Capital

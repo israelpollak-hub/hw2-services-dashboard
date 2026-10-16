@@ -1,0 +1,20 @@
+{
+  "service": "calendar",
+  "id": "f90fesk5cscea0o97hb8ol42r8",
+  "title": "Post-FOMC decision: Bayview step 2 (30Y)",
+  "url": "https://www.google.com/calendar/event?eid=ZjkwZmVzazVjc2NlYTBvOTdoYjhvbDQycjggaXNyYWVscG9sbGFrNDFAbQ",
+  "created_at": "2026-10-16T03:51:53Z",
+  "updated_at": "2026-10-16T03:51:53Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "description.txt",
+  "calendar_id": "israelpollak41@gmail.com",
+  "start": "2026-10-29T19:00:00Z",
+  "end": "2026-10-29T20:00:00Z",
+  "time_zone": "America/New_York",
+  "all_day": false,
+  "location": null,
+  "organizer": "israelpollak41@gmail.com",
+  "attendees": [],
+  "recurrence": null,
+  "status": "confirmed"
+}

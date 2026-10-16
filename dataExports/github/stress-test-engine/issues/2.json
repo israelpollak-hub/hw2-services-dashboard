@@ -1,0 +1,11 @@
+{
+  "number": 2,
+  "title": "Add steepener and flattener scenarios to default run",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-15T18:35:28Z",
+  "updated_at": "2026-10-15T18:35:28Z",
+  "url": "https://github.com/sruly-hw2-test/stress-test-engine/issues/2",
+  "body": "Requested by Joe Smith ahead of the Bayview client call.\n\nDefault run only includes parallel +/-100 basis points. Add the 2Y -25 / 30Y +50 basis points steepener and its reverse so the output matches the stress test playbook in Notion.\n\nOwner: Daniel Okafor. Review: Priya Natarajan."
+}

@@ -1,0 +1,8 @@
+Hi Sruly,
+
+Heads up: with the proposed trades, one-day 99% VaR on the Bayview portfolio is 0.89%, which is uncomfortably close to the 0.95% limit. Last week it was 0.81%. The jump comes mostly from adding 7-10 year exposure, and risk-limits-monitor will start sending warnings above 0.90%.
+
+Before anything is finalized, please rerun the rebalance in rate-scenario-simulator with the trades phased over two weeks instead of one, and send me the VaR path. If a phased approach keeps us below 0.85%, I am comfortable. Otherwise we must trim the position size and tell Joe.
+
+Daniel Okafor
+Risk manager, Quillfeather Capital

@@ -1,0 +1,1 @@
+Joe Smith, Daniel Okafor and Maria Delgado review the FOMC outcome and the updated Treasury curve. Daniel checks whether adding $60M of 30Y keeps VaR under Bayview's 0.95% limit. Decide whether to execute step 2 now or wait.

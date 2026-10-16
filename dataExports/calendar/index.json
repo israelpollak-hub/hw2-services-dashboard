@@ -1,0 +1,79 @@
+{
+  "service": "calendar",
+  "updated_at": "2026-10-16T03:56:23Z",
+  "item_count": 12,
+  "items": [
+    {
+      "id": "f90fesk5cscea0o97hb8ol42r8",
+      "title": "Post-FOMC decision: Bayview step 2 (30Y)",
+      "folder": "2026-10-29T1900Z_post-fomc-decision-bayview-step-2-30y",
+      "created_at": "2026-10-16T03:51:53Z"
+    },
+    {
+      "id": "mio033n9dequlnr1kclao2pnbg",
+      "title": "Bayview step 1 trade execution check",
+      "folder": "2026-10-28T1400Z_bayview-step-1-trade-execution-check",
+      "created_at": "2026-10-16T03:51:50Z"
+    },
+    {
+      "id": "4pj2ale4si2sme6s1p8uvh9dms",
+      "title": "Bayview monthly duration report – first draft review",
+      "folder": "2026-10-27T1900Z_bayview-monthly-duration-report-first-draft-review",
+      "created_at": "2026-10-16T03:17:04Z"
+    },
+    {
+      "id": "b19kv6vtid7te3bhlv7heurlgo",
+      "title": "YTM solver bug review (bond-pricer)",
+      "folder": "2026-10-23T1800Z_ytm-solver-bug-review-bond-pricer",
+      "created_at": "2026-10-16T03:17:02Z"
+    },
+    {
+      "id": "nstq847pt0b60kpul19dusstos",
+      "title": "Stress test walkthrough – callable bonds",
+      "folder": "2026-10-23T1500Z_stress-test-walkthrough-callable-bonds",
+      "created_at": "2026-10-16T03:16:59Z"
+    },
+    {
+      "id": "9um83t71ds32b3lom0svvvtvoc",
+      "title": "Bayview deck prep with Joe Smith",
+      "folder": "2026-10-19T1800Z_bayview-deck-prep-with-joe-smith",
+      "created_at": "2026-10-16T03:16:57Z"
+    },
+    {
+      "id": "7n83uufhd3fbbtrgmpp1lff2b0",
+      "title": "Weekly risk review with Daniel Okafor",
+      "folder": "2026-10-19T1400Z_weekly-risk-review-with-daniel-okafor",
+      "created_at": "2026-10-16T03:16:55Z"
+    },
+    {
+      "id": "pkn66c45mo7fuq06ht4185pjpo",
+      "title": "Daily standup – DuraLens team",
+      "folder": "2026-10-16T1330Z_daily-standup-duralens-team",
+      "created_at": "2026-10-16T03:15:02Z"
+    },
+    {
+      "id": "jdqn4uqb47u7d8oj74kt0g6t80",
+      "title": "Convexity model deep-dive with Maria Delgado",
+      "folder": "2026-10-21T1900Z_convexity-model-deep-dive-with-maria-delgado",
+      "created_at": "2026-10-16T03:15:01Z"
+    },
+    {
+      "id": "mg8loqmpns84b540engp2pb7ms",
+      "title": "Weekly risk review with Daniel Okafor",
+      "folder": "2026-10-26T1400Z_weekly-risk-review-with-daniel-okafor",
+      "created_at": "2026-10-16T03:15:01Z"
+    },
+    {
+      "id": "jb2fhmb506plviiu63t25csjf4",
+      "title": "Bayview Q4 rebalance – client call with Rachel Stein",
+      "folder": "2026-10-20T1800Z_bayview-q4-rebalance-client-call-with-rachel-stein",
+      "created_at": "2026-10-16T03:15:00Z"
+    },
+    {
+      "id": "2jn4g2j2h0prf8dotqrs0759g0",
+      "title": "DuraLens v0.4 release review",
+      "folder": "2026-10-22T1500Z_duralens-v0-4-release-review",
+      "created_at": "2026-10-16T03:15:00Z"
+    }
+  ]
+}

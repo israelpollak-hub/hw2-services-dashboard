@@ -1,0 +1,25 @@
+{
+  "service": "gmail",
+  "id": "1a142b4577d66911",
+  "title": "+/-100bp stress test results for the proposed rebalance",
+  "url": "https://mail.google.com/mail/?authuser=israelpollak41@gmail.com#all/thread-f:1879174521883617553|msg-f:1879174521883617553",
+  "created_at": "2026-10-16T03:14:37Z",
+  "updated_at": null,
+  "downloaded_at": "2026-10-16T03:42:58Z",
+  "content_file": "body.txt",
+  "thread_id": "1a142b4577d66911",
+  "subject": "+/-100bp stress test results for the proposed rebalance",
+  "from": "israelpollak41@gmail.com",
+  "to": [
+    "israelpollak41@gmail.com"
+  ],
+  "cc": [],
+  "date": "2026-10-16T03:14:37Z",
+  "labels": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Hi Sruly, The stress tests from stress-test-engine are done for the proposed Bayview portfolio (duration 7.0, convexity 1.05): - +100bp: -6.1% portfolio value - -100bp: +7.0% (convexity helps on the",
+  "attachments": []
+}

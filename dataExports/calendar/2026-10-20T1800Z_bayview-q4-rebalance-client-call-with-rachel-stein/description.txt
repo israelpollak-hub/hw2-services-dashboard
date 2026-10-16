@@ -1,0 +1,1 @@
+Joe Smith leads the call with Rachel Stein (CIO, Bayview Teachers Pension Fund). Decide whether to move duration from 6.4 to 7.0 years and convexity from 0.82 to 1.05 on the $1.2B portfolio. Sruly covers the +100bp stress result (-6.1%) and Daniel Okafor's VaR check against the 0.95% limit.

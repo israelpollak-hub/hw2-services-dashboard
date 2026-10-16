@@ -1,0 +1,25 @@
+{
+  "service": "gmail",
+  "id": "1a142b8071ad8bbf",
+  "title": "Convexity by bucket – 10Y and 30Y numbers",
+  "url": "https://mail.google.com/mail/?authuser=israelpollak41@gmail.com#all/thread-f:1879174775183346623|msg-f:1879174775183346623",
+  "created_at": "2026-10-16T03:18:38Z",
+  "updated_at": null,
+  "downloaded_at": "2026-10-16T03:42:58Z",
+  "content_file": "body.txt",
+  "thread_id": "1a142b8071ad8bbf",
+  "subject": "Convexity by bucket – 10Y and 30Y numbers",
+  "from": "israelpollak41@gmail.com",
+  "to": [
+    "israelpollak41@gmail.com"
+  ],
+  "cc": [],
+  "date": "2026-10-16T03:18:38Z",
+  "labels": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Hi Sruly, I finished running the convexity model on the Bayview positions. Numbers by bucket: - 2Y bucket: duration 1.9, convexity 0.04 - 5Y bucket: duration 4.6, convexity 0.25 - 10Y bucket: duration",
+  "attachments": []
+}

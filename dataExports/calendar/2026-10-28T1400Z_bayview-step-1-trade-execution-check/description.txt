@@ -1,0 +1,1 @@
+Joe Smith and Sruly confirm that step 1 of the Bayview Q4 rebalance settled (sell $90M 2Y, buy $30M 10Y). Rerun DuraLens v0.4 to confirm portfolio duration is near 6.7 years. Decide what to send Rachel Stein and the custodian.

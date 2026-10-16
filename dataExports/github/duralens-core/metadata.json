@@ -1,0 +1,18 @@
+{
+  "service": "github",
+  "id": "1421177223",
+  "title": "duralens-core",
+  "url": "https://github.com/sruly-hw2-test/duralens-core",
+  "created_at": "2026-10-15T18:33:11Z",
+  "updated_at": "2026-10-15T18:34:00Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/duralens-core",
+  "description": "DuraLens core duration/convexity engine",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 1,
+  "issues": [
+    1
+  ]
+}

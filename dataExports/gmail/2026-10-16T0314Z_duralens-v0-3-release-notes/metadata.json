@@ -1,0 +1,25 @@
+{
+  "service": "gmail",
+  "id": "1a142b4525a03ddc",
+  "title": "DuraLens v0.3 release notes",
+  "url": "https://mail.google.com/mail/?authuser=israelpollak41@gmail.com#all/thread-f:1879174520504335836|msg-f:1879174520504335836",
+  "created_at": "2026-10-16T03:14:36Z",
+  "updated_at": null,
+  "downloaded_at": "2026-10-16T03:42:58Z",
+  "content_file": "body.txt",
+  "thread_id": "1a142b4525a03ddc",
+  "subject": "DuraLens v0.3 release notes",
+  "from": "israelpollak41@gmail.com",
+  "to": [
+    "israelpollak41@gmail.com"
+  ],
+  "cc": [],
+  "date": "2026-10-16T03:14:36Z",
+  "labels": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Hi Sruly, DuraLens v0.3 is released. Highlights: - New convexity view in duralens-dashboard, with bucket drill-down - Faster pricing: bond-pricer now prices a 2000-bond portfolio in about 1.2 seconds,",
+  "attachments": []
+}

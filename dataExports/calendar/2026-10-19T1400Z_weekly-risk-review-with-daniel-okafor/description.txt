@@ -1,0 +1,1 @@
+Daniel Okafor reviews the +100bp / -100bp stress test results (-6.1% / +6.6%) from stress-test-engine before the Bayview client call. Joe Smith and Sruly attend. Decide whether the proposed 7.0-year duration stays inside the 0.95% VaR limit.

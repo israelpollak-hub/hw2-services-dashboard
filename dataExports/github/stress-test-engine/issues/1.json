@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "title": "Stress test fails for callable bonds",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-15T18:35:26Z",
+  "updated_at": "2026-10-15T18:35:26Z",
+  "url": "https://github.com/sruly-hw2-test/stress-test-engine/issues/1",
+  "body": "Reported by Daniel Okafor (Risk manager).\n\nIn the +100 basis points scenario, callable bonds are repriced to maturity, so losses are overstated by roughly 0.2% at the portfolio level for Bayview. This matters because the proposed Q4 rebalance sits at -3.4% against the -3.5% limit.\n\nExpected: callable bonds repriced with an option-adjusted model.\n\nNext steps: Maria Delgado to supply option-adjusted convexity inputs; Priya Natarajan to integrate for DuraLens v0.4."
+}

@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "title": "Release v0.4: YTM bisection fallback + option-adjusted duration for callables",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-16T03:52:57Z",
+  "updated_at": "2026-10-16T03:52:57Z",
+  "url": "https://github.com/sruly-hw2-test/duralens-core/issues/1",
+  "body": "Written by Priya Natarajan (lead developer of DuraLens).\n\nScope for DuraLens v0.4 (planned Oct 24):\n- YTM solver: fall back to bisection when the Newton step leaves the bracket, fixing non-convergence for deep-discount bonds (bond-pricer issue #1).\n- Option-adjusted duration for callable bonds, so the stress test no longer reprices callables to maturity (stress-test-engine issue #1). Maria Delgado to supply option-adjusted convexity inputs.\n\nRelease checklist: tests green, YTM regression suite green, convexity results within 0.01 of Maria's reference sheet, stress test output reviewed by Daniel Okafor, Joe Smith sign-off."
+}

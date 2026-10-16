@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "title": "30Y bucket convexity differs by 0.04 between models",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-15T18:35:30Z",
+  "updated_at": "2026-10-15T18:35:30Z",
+  "url": "https://github.com/sruly-hw2-test/convexity-calculator/issues/1",
+  "body": "Raised by Maria Delgado (Quant analyst).\n\nThe numerical bump method gives 30Y bucket convexity of 2.95 while the analytic formula gives 2.91. Portfolio convexity of 0.82 moves by about 0.01, but Joe Smith needs one agreed number for Bayview.\n\nSuspect: curve fit error beyond 20Y in yield-curve-builder.\nAction: reconcile before the DuraLens v0.4 release review. Daniel Okafor to confirm that risk limits are unaffected."
+}

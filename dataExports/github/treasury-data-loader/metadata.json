@@ -1,0 +1,16 @@
+{
+  "service": "github",
+  "id": "1421177815",
+  "title": "treasury-data-loader",
+  "url": "https://github.com/sruly-hw2-test/treasury-data-loader",
+  "created_at": "2026-10-15T18:33:44Z",
+  "updated_at": "2026-10-15T18:34:44Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/treasury-data-loader",
+  "description": "Treasury market data ingestion",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 0,
+  "issues": []
+}

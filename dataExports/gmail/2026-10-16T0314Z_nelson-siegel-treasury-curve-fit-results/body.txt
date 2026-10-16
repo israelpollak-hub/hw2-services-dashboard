@@ -1,0 +1,8 @@
+Hi Sruly,
+
+The Nelson-Siegel fit in yield-curve-builder is now running on the daily Treasury data from treasury-data-loader. Fit quality looks good: RMSE is 1.8bp across the 1-month to 30-year points, down from 3.1bp with the old interpolation. The beta parameters are stable day to day, though the curvature term gets noisy around the 5-year point.
+
+This curve feeds the duration and convexity numbers in DuraLens, so the lower error will tighten our Bayview estimates. Could you add a plot of fitted vs observed yields to the weekly notes? I would like Priya to see it before the v0.4 release.
+
+Maria Delgado
+Quant analyst, Quillfeather Capital

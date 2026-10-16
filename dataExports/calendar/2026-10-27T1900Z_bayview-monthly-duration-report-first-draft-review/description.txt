@@ -1,0 +1,1 @@
+Joe Smith reviews Sruly's first draft of the monthly report Rachel Stein requested (bayview-reporting issue #1): duration and convexity by bucket, +/-100bp stress results, and a plain-English explanation of convexity for the trustees. Decide the final template before November.

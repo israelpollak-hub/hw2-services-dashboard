@@ -1,0 +1,1 @@
+Priya Natarajan demos the bisection fallback for the yield-to-maturity solver (bond-pricer issue #1) on bonds priced above 130. Maria Delgado checks the results against her spreadsheet. Decide if the fix is ready to ship in DuraLens v0.4.

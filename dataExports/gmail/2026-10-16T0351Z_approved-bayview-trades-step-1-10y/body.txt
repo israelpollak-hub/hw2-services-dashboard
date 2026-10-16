@@ -1,0 +1,16 @@
+Hi Sruly,
+
+Following our board discussion, Bayview Teachers Pension Fund approves step 1 of the Q4 rebalance:
+
+- Sell $90M of 2Y Treasuries
+- Buy $30M of 10Y Treasuries
+
+As agreed with Daniel Okafor, step 2 (the $60M of 30Y) will wait until after the FOMC meeting, so that VaR stays near 0.87% instead of 0.93%.
+
+Please send our custodian the trade confirmation by Friday, and copy me on the updated duration figure after step 1. Joe Smith mentioned it should land around 6.7 years.
+
+One more request: in the next monthly report, could you show duration before and after each step? The trustees found the two-step plan easy to follow, and I'd like the report to tell the same story.
+
+Best regards,
+Rachel Stein
+Chief Investment Officer, Bayview Teachers Pension Fund

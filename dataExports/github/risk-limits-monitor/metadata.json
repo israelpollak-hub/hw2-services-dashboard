@@ -1,0 +1,18 @@
+{
+  "service": "github",
+  "id": "1421177935",
+  "title": "risk-limits-monitor",
+  "url": "https://github.com/sruly-hw2-test/risk-limits-monitor",
+  "created_at": "2026-10-15T18:33:51Z",
+  "updated_at": "2026-10-15T18:34:47Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/risk-limits-monitor",
+  "description": "VaR and duration limit monitoring",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 1,
+  "issues": [
+    1
+  ]
+}

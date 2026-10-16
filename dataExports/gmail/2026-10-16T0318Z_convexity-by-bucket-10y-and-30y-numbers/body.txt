@@ -1,0 +1,18 @@
+Hi Sruly,
+
+I finished running the convexity model on the Bayview positions. Numbers by bucket:
+
+- 2Y bucket: duration 1.9, convexity 0.04
+- 5Y bucket: duration 4.6, convexity 0.25
+- 10Y bucket: duration 8.3, convexity 0.79
+- 30Y bucket: duration 17.2, convexity 3.41
+
+The 30Y bucket drives most of the portfolio convexity. If we extend duration toward 7.0 years by adding 30Y Treasuries, portfolio convexity rises from 0.82 to around 1.05. That helps Bayview in a large rate move in either direction.
+
+One caveat: the 30Y number in DuraLens differs from my spreadsheet by 0.04. I think it is a day-count convention issue in the bond pricer. I opened an issue in the convexity-calculator repo, and Priya Natarajan is looking at it.
+
+Can you double-check the 10Y face values against the custodian file before Joe Smith sees this? We'll go through it in detail at the deep-dive on the 21st.
+
+Best,
+Maria Delgado
+Quantitative Analyst, Quillfeather Capital

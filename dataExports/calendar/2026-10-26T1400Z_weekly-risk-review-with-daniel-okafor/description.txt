@@ -1,0 +1,1 @@
+Follow-up weekly review with Daniel Okafor and Joe Smith. Check the VaR path from rate-scenario-simulator and decide whether position sizes for the Bayview rebalance need trimming.

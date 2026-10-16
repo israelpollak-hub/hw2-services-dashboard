@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "title": "Alert when VaR passes 0.95% of NAV",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-15T18:35:31Z",
+  "updated_at": "2026-10-15T18:35:31Z",
+  "url": "https://github.com/sruly-hw2-test/risk-limits-monitor/issues/1",
+  "body": "From the Oct 9 risk review. Current 1-day 99% VaR is 0.92% of NAV versus the 1.00% limit.\n\nAdd a warning alert at 0.95% that emails Joe Smith and Daniel Okafor. A breach at 1.00% should also notify Rachel Stein's team via Joe.\n\nOwner: Daniel Okafor. Implementation: Priya Natarajan."
+}

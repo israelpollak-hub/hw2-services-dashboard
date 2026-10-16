@@ -1,0 +1,19 @@
+{
+  "service": "github",
+  "id": "1421177663",
+  "title": "stress-test-engine",
+  "url": "https://github.com/sruly-hw2-test/stress-test-engine",
+  "created_at": "2026-10-15T18:33:35Z",
+  "updated_at": "2026-10-15T18:34:39Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/stress-test-engine",
+  "description": "+/-100bp stress scenarios",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 2,
+  "issues": [
+    1,
+    2
+  ]
+}

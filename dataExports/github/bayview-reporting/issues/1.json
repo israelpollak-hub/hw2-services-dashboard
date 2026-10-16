@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "title": "Monthly duration report for Bayview (request from Rachel Stein)",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-15T18:35:28Z",
+  "updated_at": "2026-10-15T18:35:28Z",
+  "url": "https://github.com/sruly-hw2-test/bayview-reporting/issues/1",
+  "body": "Request from Rachel Stein, CIO of Bayview Teachers Pension Fund, after the kickoff meeting.\n\nShe wants a monthly report with:\n- Portfolio duration (now 6.4 years) and convexity (0.82)\n- Duration by maturity bucket\n- +/-100 basis points stress results\n- Progress on the Q4 rebalance\n\nDue: first report in November. Template draft by Oct 14.\nAssignee on our side: Sruly. Joe Smith approves before sending; Maria Delgado reviews the methodology notes."
+}

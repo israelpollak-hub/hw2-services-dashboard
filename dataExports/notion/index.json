@@ -1,0 +1,79 @@
+{
+  "service": "notion",
+  "updated_at": "2026-10-16T03:56:23Z",
+  "item_count": 12,
+  "items": [
+    {
+      "id": "3fbdfd80-ac03-81df-bcc8-c5237ee7e80e",
+      "title": "Meeting notes – Bayview call (Oct 20)",
+      "folder": "meeting-notes-bayview-call-oct-20",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-8189-a35b-ed035e2efb48",
+      "title": "Team directory",
+      "folder": "team-directory",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-8106-a6ff-f7f64c432d0a",
+      "title": "DuraLens product spec",
+      "folder": "duralens-product-spec",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-812a-bb59-c7b7de2001f3",
+      "title": "DuraLens roadmap Q4",
+      "folder": "duralens-roadmap-q4",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-8121-8b57-ee530bc8f573",
+      "title": "Bayview client profile",
+      "folder": "bayview-client-profile",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-8140-81ac-ee1ee665d91f",
+      "title": "Meeting notes – Bayview kickoff",
+      "folder": "meeting-notes-bayview-kickoff",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-818c-a00a-c19e7450c6fd",
+      "title": "Meeting notes – risk review",
+      "folder": "meeting-notes-risk-review",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-8107-ae6e-f06162eb16fc",
+      "title": "Convexity methodology",
+      "folder": "convexity-methodology",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-813d-9244-f082fea30f38",
+      "title": "Stress test playbook",
+      "folder": "stress-test-playbook",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-8139-a9cb-e576d31a4bfc",
+      "title": "Release checklist",
+      "folder": "release-checklist",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-81a0-b804-cd49360dc856",
+      "title": "Q4 rebalance decision log",
+      "folder": "q4-rebalance-decision-log",
+      "created_at": null
+    },
+    {
+      "id": "3fadfd80-ac03-81cd-ac76-cfcc0a9ea696",
+      "title": "Quillfeather Capital — HW2",
+      "folder": "quillfeather-capital-hw2",
+      "created_at": null
+    }
+  ]
+}

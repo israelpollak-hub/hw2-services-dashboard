@@ -1,0 +1,18 @@
+{
+  "service": "github",
+  "id": "1421177598",
+  "title": "convexity-calculator",
+  "url": "https://github.com/sruly-hw2-test/convexity-calculator",
+  "created_at": "2026-10-15T18:33:31Z",
+  "updated_at": "2026-10-15T18:34:36Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/convexity-calculator",
+  "description": "Convexity and duration calculations",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 1,
+  "issues": [
+    1
+  ]
+}

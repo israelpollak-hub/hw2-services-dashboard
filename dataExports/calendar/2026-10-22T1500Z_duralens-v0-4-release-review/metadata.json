@@ -1,0 +1,20 @@
+{
+  "service": "calendar",
+  "id": "2jn4g2j2h0prf8dotqrs0759g0",
+  "title": "DuraLens v0.4 release review",
+  "url": "https://www.google.com/calendar/event?eid=MmpuNGcyajJoMHByZjhkb3RxcnMwNzU5ZzAgaXNyYWVscG9sbGFrNDFAbQ",
+  "created_at": "2026-10-16T03:15:00Z",
+  "updated_at": "2026-10-16T03:15:00Z",
+  "downloaded_at": "2026-10-16T03:42:58Z",
+  "content_file": "description.txt",
+  "calendar_id": "israelpollak41@gmail.com",
+  "start": "2026-10-22T15:00:00Z",
+  "end": "2026-10-22T16:00:00Z",
+  "time_zone": "America/New_York",
+  "all_day": false,
+  "location": null,
+  "organizer": "israelpollak41@gmail.com",
+  "attendees": [],
+  "recurrence": null,
+  "status": "confirmed"
+}

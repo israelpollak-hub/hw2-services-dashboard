@@ -1,0 +1,12 @@
+Hi Sruly,
+
+DuraLens v0.3 is released. Highlights:
+- New convexity view in duralens-dashboard, with bucket drill-down
+- Faster pricing: bond-pricer now prices a 2,000-bond portfolio in about 1.2 seconds, down from 4.5
+- Treasury curve now comes from yield-curve-builder (Nelson-Siegel)
+- bayview-reporting can export the monthly duration report as PDF
+
+Known issues: the YTM solver in bond-pricer fails to converge for a few deeply discounted bonds, and I am working on a fix for v0.4. Please test the Bayview portfolio on v0.3 and report anything odd by Thursday. Open issues in GitHub rather than replying by email so we can track them.
+
+Priya Natarajan
+Lead developer, DuraLens

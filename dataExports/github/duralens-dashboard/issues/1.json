@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "title": "Show stress test scenario panel for Bayview call",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-15T18:35:32Z",
+  "updated_at": "2026-10-15T18:35:32Z",
+  "url": "https://github.com/sruly-hw2-test/duralens-dashboard/issues/1",
+  "body": "Request from Joe Smith: he wants the +100 / -100 basis points results visible on the dashboard during the Bayview client call with Rachel Stein.\n\nScope for v0.4: table of scenarios, loss versus limit bar, duration and convexity next to it.\nOwner: Priya Natarajan. Data from Daniel Okafor's engine; curve chart from Maria Delgado."
+}

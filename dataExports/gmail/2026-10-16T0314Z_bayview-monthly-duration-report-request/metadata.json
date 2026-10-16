@@ -1,0 +1,25 @@
+{
+  "service": "gmail",
+  "id": "1a142b45b9333cd1",
+  "title": "Bayview monthly duration report request",
+  "url": "https://mail.google.com/mail/?authuser=israelpollak41@gmail.com#all/thread-f:1879174522980220113|msg-f:1879174522980220113",
+  "created_at": "2026-10-16T03:14:38Z",
+  "updated_at": null,
+  "downloaded_at": "2026-10-16T03:42:58Z",
+  "content_file": "body.txt",
+  "thread_id": "1a142b45b9333cd1",
+  "subject": "Bayview monthly duration report request",
+  "from": "israelpollak41@gmail.com",
+  "to": [
+    "israelpollak41@gmail.com"
+  ],
+  "cc": [],
+  "date": "2026-10-16T03:14:38Z",
+  "labels": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Hi Sruly, Thank you for your help so far. Could you send us the monthly duration report for the Bayview Teachers Pension Fund by the 5th of each month? Our board likes to see current duration (6.4",
+  "attachments": []
+}

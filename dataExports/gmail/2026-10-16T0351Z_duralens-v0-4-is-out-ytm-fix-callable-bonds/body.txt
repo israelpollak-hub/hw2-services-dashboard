@@ -1,0 +1,15 @@
+Hi Sruly,
+
+DuraLens v0.4 is live on the internal server. Highlights:
+
+- The YTM solver now falls back to bisection when Newton-Raphson doesn't converge. The three high-coupon 30Y bonds in the Bayview file now show proper yields, so please remove your manual overrides. (Closes bond-pricer #1.)
+- Callable bonds now use option-adjusted duration in the stress test, as Daniel Okafor requested in stress-test-engine #1. The +100bp loss on the Bayview portfolio moves from -6.1% to -6.0%.
+- New "Two-step rebalance" view: compare duration and VaR before step 1, after step 1 and after step 2.
+
+Maria Delgado checked convexity against her spreadsheet. The 30Y bucket difference is down from 0.04 to 0.01.
+
+Please rerun the duration summary with v0.4 before Joe Smith sends the trade confirmation to Rachel Stein.
+
+Cheers,
+Priya Natarajan
+Lead Developer, DuraLens

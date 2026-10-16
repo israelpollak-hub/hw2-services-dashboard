@@ -1,0 +1,16 @@
+{
+  "service": "github",
+  "id": "1421177767",
+  "title": "rate-scenario-simulator",
+  "url": "https://github.com/sruly-hw2-test/rate-scenario-simulator",
+  "created_at": "2026-10-15T18:33:41Z",
+  "updated_at": "2026-10-15T18:34:43Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/rate-scenario-simulator",
+  "description": "Fed rate path scenario simulator",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 0,
+  "issues": []
+}

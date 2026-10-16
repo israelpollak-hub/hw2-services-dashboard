@@ -1,0 +1,1 @@
+Maria Delgado explains the convexity-by-bucket model in convexity-calculator and the Nelson-Siegel fit. Sruly brings the bond-pricer cross-check for the five largest holdings. Decide which maturity buckets to extend to reach convexity 1.05.

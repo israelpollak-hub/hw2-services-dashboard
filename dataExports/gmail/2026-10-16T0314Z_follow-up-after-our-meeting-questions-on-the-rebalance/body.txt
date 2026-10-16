@@ -1,0 +1,11 @@
+Hi Sruly,
+
+Thanks to you and Joe for the meeting yesterday. The board found the proposal clear, but I have three follow-ups:
+1. What is the expected loss if the Fed does not cut and rates rise 100bp? I recall -6.1%, which on $1.2B is about $73 million. Please confirm.
+2. How quickly can you execute the move from 6.4 to 7.0 years of duration, and what are the transaction costs?
+3. Can we see the weekly VaR against our 0.95% limit while the trades go in?
+
+Please reply by Friday, as the investment committee meets the following Monday.
+
+Rachel Stein
+CIO, Bayview Teachers Pension Fund

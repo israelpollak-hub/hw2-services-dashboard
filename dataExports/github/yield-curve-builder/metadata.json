@@ -1,0 +1,16 @@
+{
+  "service": "github",
+  "id": "1421177482",
+  "title": "yield-curve-builder",
+  "url": "https://github.com/sruly-hw2-test/yield-curve-builder",
+  "created_at": "2026-10-15T18:33:25Z",
+  "updated_at": "2026-10-15T18:34:32Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/yield-curve-builder",
+  "description": "Treasury curve fitting for DuraLens",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 0,
+  "issues": []
+}

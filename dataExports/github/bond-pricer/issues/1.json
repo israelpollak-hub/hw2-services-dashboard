@@ -1,0 +1,11 @@
+{
+  "number": 1,
+  "title": "YTM solver does not converge for deep-discount bonds",
+  "state": "open",
+  "author": "israelpollak-hub",
+  "labels": [],
+  "created_at": "2026-10-15T18:35:29Z",
+  "updated_at": "2026-10-15T18:35:29Z",
+  "url": "https://github.com/sruly-hw2-test/bond-pricer/issues/1",
+  "body": "Found by Priya Natarajan while testing DuraLens v0.3.\n\nFor bonds priced below 60, the Newton-Raphson step overshoots and the solver hits the iteration limit (50) without converging. 7 of the 1,200 Bayview positions are affected.\n\nProposed fix: fall back to bisection when the Newton step leaves the bracket. Target: v0.4 (Oct 24).\n\nMaria Delgado to supply reference yields for the affected bonds."
+}

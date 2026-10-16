@@ -1,0 +1,79 @@
+{
+  "service": "gmail",
+  "updated_at": "2026-10-16T03:56:23Z",
+  "item_count": 12,
+  "items": [
+    {
+      "id": "1a142d65f4dbc9f1",
+      "title": "DuraLens v0.4 is out: YTM fix + callable bonds",
+      "folder": "2026-10-16T0351Z_duralens-v0-4-is-out-ytm-fix-callable-bonds",
+      "created_at": "2026-10-16T03:51:47Z"
+    },
+    {
+      "id": "1a142d64fdeab391",
+      "title": "Approved: Bayview trades, step 1 (10Y)",
+      "folder": "2026-10-16T0351Z_approved-bayview-trades-step-1-10y",
+      "created_at": "2026-10-16T03:51:43Z"
+    },
+    {
+      "id": "1a142b8071ad8bbf",
+      "title": "Convexity by bucket – 10Y and 30Y numbers",
+      "folder": "2026-10-16T0318Z_convexity-by-bucket-10y-and-30y-numbers",
+      "created_at": "2026-10-16T03:18:38Z"
+    },
+    {
+      "id": "1a142b7f92b9f9c2",
+      "title": "Reminder: Bayview client call on Oct 20",
+      "folder": "2026-10-16T0318Z_reminder-bayview-client-call-on-oct-20",
+      "created_at": "2026-10-16T03:18:35Z"
+    },
+    {
+      "id": "1a142b45d92d68a5",
+      "title": "Follow-up after our meeting – questions on the rebalance",
+      "folder": "2026-10-16T0314Z_follow-up-after-our-meeting-questions-on-the-rebalance",
+      "created_at": "2026-10-16T03:14:38Z"
+    },
+    {
+      "id": "1a142b45b9333cd1",
+      "title": "Bayview monthly duration report request",
+      "folder": "2026-10-16T0314Z_bayview-monthly-duration-report-request",
+      "created_at": "2026-10-16T03:14:38Z"
+    },
+    {
+      "id": "1a142b459453173d",
+      "title": "VaR is close to the limit – please check before trades",
+      "folder": "2026-10-16T0314Z_var-is-close-to-the-limit-please-check-before-trades",
+      "created_at": "2026-10-16T03:14:38Z"
+    },
+    {
+      "id": "1a142b4577d66911",
+      "title": "+/-100bp stress test results for the proposed rebalance",
+      "folder": "2026-10-16T0314Z_100bp-stress-test-results-for-the-proposed-rebalance",
+      "created_at": "2026-10-16T03:14:37Z"
+    },
+    {
+      "id": "1a142b457e825bfd",
+      "title": "YTM solver bug in bond-pricer – need your repro",
+      "folder": "2026-10-16T0314Z_ytm-solver-bug-in-bond-pricer-need-your-repro",
+      "created_at": "2026-10-16T03:14:36Z"
+    },
+    {
+      "id": "1a142b4525a03ddc",
+      "title": "DuraLens v0.3 release notes",
+      "folder": "2026-10-16T0314Z_duralens-v0-3-release-notes",
+      "created_at": "2026-10-16T03:14:36Z"
+    },
+    {
+      "id": "1a142b45190897c7",
+      "title": "Nelson-Siegel Treasury curve fit results",
+      "folder": "2026-10-16T0314Z_nelson-siegel-treasury-curve-fit-results",
+      "created_at": "2026-10-16T03:14:35Z"
+    },
+    {
+      "id": "1a142b37c4b6a499",
+      "title": "Bayview Q4 rebalance kickoff – priorities this week",
+      "folder": "2026-10-16T0313Z_bayview-q4-rebalance-kickoff-priorities-this-week",
+      "created_at": "2026-10-16T03:13:41Z"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Daniel Okafor and Priya Natarajan walk through issue #1 in stress-test-engine ("Stress test fails for callable bonds"). Sruly brings the list of callable positions in the Bayview portfolio. Decide whether to model callables with option-adjusted duration in DuraLens v0.4.

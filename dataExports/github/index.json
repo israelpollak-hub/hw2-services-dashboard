@@ -1,0 +1,67 @@
+{
+  "service": "github",
+  "updated_at": "2026-10-16T03:56:23Z",
+  "item_count": 10,
+  "items": [
+    {
+      "id": "1421177935",
+      "title": "risk-limits-monitor",
+      "folder": "risk-limits-monitor",
+      "created_at": "2026-10-15T18:33:51Z"
+    },
+    {
+      "id": "1421177882",
+      "title": "duralens-dashboard",
+      "folder": "duralens-dashboard",
+      "created_at": "2026-10-15T18:33:48Z"
+    },
+    {
+      "id": "1421177815",
+      "title": "treasury-data-loader",
+      "folder": "treasury-data-loader",
+      "created_at": "2026-10-15T18:33:44Z"
+    },
+    {
+      "id": "1421177767",
+      "title": "rate-scenario-simulator",
+      "folder": "rate-scenario-simulator",
+      "created_at": "2026-10-15T18:33:41Z"
+    },
+    {
+      "id": "1421177721",
+      "title": "bayview-reporting",
+      "folder": "bayview-reporting",
+      "created_at": "2026-10-15T18:33:38Z"
+    },
+    {
+      "id": "1421177663",
+      "title": "stress-test-engine",
+      "folder": "stress-test-engine",
+      "created_at": "2026-10-15T18:33:35Z"
+    },
+    {
+      "id": "1421177598",
+      "title": "convexity-calculator",
+      "folder": "convexity-calculator",
+      "created_at": "2026-10-15T18:33:31Z"
+    },
+    {
+      "id": "1421177537",
+      "title": "bond-pricer",
+      "folder": "bond-pricer",
+      "created_at": "2026-10-15T18:33:28Z"
+    },
+    {
+      "id": "1421177482",
+      "title": "yield-curve-builder",
+      "folder": "yield-curve-builder",
+      "created_at": "2026-10-15T18:33:25Z"
+    },
+    {
+      "id": "1421177223",
+      "title": "duralens-core",
+      "folder": "duralens-core",
+      "created_at": "2026-10-15T18:33:11Z"
+    }
+  ]
+}

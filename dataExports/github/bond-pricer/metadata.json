@@ -1,0 +1,18 @@
+{
+  "service": "github",
+  "id": "1421177537",
+  "title": "bond-pricer",
+  "url": "https://github.com/sruly-hw2-test/bond-pricer",
+  "created_at": "2026-10-15T18:33:28Z",
+  "updated_at": "2026-10-15T18:34:34Z",
+  "downloaded_at": "2026-10-16T03:56:23Z",
+  "content_file": "README.md",
+  "full_name": "sruly-hw2-test/bond-pricer",
+  "description": "Bond pricing and YTM solver",
+  "visibility": "private",
+  "default_branch": "main",
+  "open_issues_count": 1,
+  "issues": [
+    1
+  ]
+}
